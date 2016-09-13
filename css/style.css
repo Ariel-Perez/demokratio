@@ -3,6 +3,16 @@ body
     text-align: center;
 }
 
+img
+{
+    max-width: 100%;
+}
+
+div.jumbotron
+{
+    background-color: #ffffff;
+}
+
 textarea
 {
     resize: vertical;
